@@ -296,4 +296,4 @@ FILTER('Pharma Group AG','Pharma Group AG'[Promotion in FY21?]="Yes")),[#Total N
 
 |Figure 6 shows visualizations from `Internship_Completion_Certificate` |
 | ----------- |
-|![image](https://github.com/Priyankamore-DA/PowerBI-PWC_Virtual_Intership_Task-04/blob/main/cerificate.pdf)|
+|![image](https://github.com/Priyankamore-DA/PowerBI-PWC_Virtual_Intership_Task-04/blob/main/Screenshot%202023-04-07%20001630.png)
