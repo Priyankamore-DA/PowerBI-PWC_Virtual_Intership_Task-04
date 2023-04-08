@@ -275,24 +275,25 @@ FILTER('Pharma Group AG','Pharma Group AG'[Promotion in FY21?]="Yes")),[#Total N
 
 | Figure 1 shows visualizations from `KPI-1_Hiring`|
 | ----------- |
-| ![image]|
+| ![image](https://github.com/Priyankamore-DA/PowerBI-PWC_Virtual_Intership_Task-04/blob/main/1.png)|
 
 |Figure 2 shows visualizations from ` KPI-2_Promotion` |
 | ----------- |
-|![image](https://github.com/Priyankamore-DA/PowerBI-PWC_Virtual_Intership_Task-03/blob/main/2.png)|
-
+|![image](https://github.com/Priyankamore-DA/PowerBI-PWC_Virtual_Intership_Task-04/blob/main/22.png)|
 
 |Figure 3 shows visualizations from ` KPI-3 Performance rating` |
 | ----------- |
-|![image](https://github.com/Priyankamore-DA/PowerBI-PWC_Virtual_Intership_Task-03/blob/6e472af04e1005f8a18acf75da20f8577027c879/2.png)|
+|![image](https://github.com/Priyankamore-DA/PowerBI-PWC_Virtual_Intership_Task-04/blob/main/3.png)|
 
 
 |Figure 4 shows visualizations from `KPI-4 Turnover` |
 | ----------- |
-|![image](https://github.com/Priyankamore-DA/PowerBI-PWC_Virtual_Intership_Task-03/blob/main/4.png)|
+|![image](https://github.com/Priyankamore-DA/PowerBI-PWC_Virtual_Intership_Task-04/blob/main/4.png)|
 
 |Figure 5 shows visualizations from `Insights ` |
 | ----------- |
+|![image](https://github.com/Priyankamore-DA/PowerBI-PWC_Virtual_Intership_Task-04/blob/main/5.png)|
 
 |Figure 6 shows visualizations from `Internship_Completion_Certificate` |
 | ----------- |
+|![image](https://github.com/Priyankamore-DA/PowerBI-PWC_Virtual_Intership_Task-04/blob/main/cerificate.pdf)|
